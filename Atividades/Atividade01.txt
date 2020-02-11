@@ -36,11 +36,13 @@ Senha:
 
 d) Prossiga selecionando a ramificação master. Em seguida, selecione um diretório de destino e finalize o assistente. 
 
-e) Na caixa de diálogo exibida acione Criar Projeto. Selecione a categoria Java e o projeto Aplicação Java.
+e) Na caixa de diálogo exibida acione Fechar
 
-f) Prossiga definindo o nome Atividade01 ao projeto. Verifique se a localização do projeto está indicando a pasta ADS020/Atividades. Senão estiver, localize-a acionando Procurar. Desmarque o item Criar Classe Principal e finalize o assistente.
+f) Crie um projeto Java acionando o menu Arquivo->Novo Projeto. Selecione a categoria Java e o projeto Aplicação Java.
 
-g) Importe a biblioteca JDBC para MySQL clicando com o botão direito sobre Bibliotecas.
+g) Prossiga definindo o nome Atividade01 ao projeto. Verifique se a localização do projeto está indicando a pasta ADS020/Atividades. Senão estiver, localize-a acionando Procurar. Desmarque o item Criar Classe Principal e finalize o assistente.
+
+h) Importe a biblioteca JDBC para MySQL clicando com o botão direito sobre Bibliotecas.
 
 
 
